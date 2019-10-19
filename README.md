@@ -10,4 +10,7 @@ numpy学习资料
 - 4 Array的赋值
 
 # 其他收藏的学习资料
-[Introduction to Numpy -1 : An absolute beginners guide to Machine Learning and Data science.](https://medium.com/hackernoon/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-science-5d87f13f0d51)
+[文章-Introduction to Numpy -1 : An absolute beginners guide to Machine Learning and Data science.](https://medium.com/hackernoon/introduction-to-numpy-1-an-absolute-beginners-guide-to-machine-learning-and-data-science-5d87f13f0d51)
+[资料-numpy100条练习](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
+[资料-numpy练习](https://github.com/Kyubyong/numpy_exercises)
+[资料-numpy中文文档](https://www.numpy.org.cn/)
